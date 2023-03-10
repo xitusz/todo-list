@@ -1,5 +1,5 @@
 # Todo List
-[4/11] [Fundamentos do Desenvolvimento Web](https://github.com/G-Alves1/Trybe/tree/main/01_Fundamentos-do-Desenvolvimento-Web)
+[4/11] [Fundamentos do Desenvolvimento Web](https://github.com/xitusz/Trybe/tree/main/01_Fundamentos-do-Desenvolvimento-Web)
 
 ---
 
@@ -40,7 +40,7 @@
 
 * Clone o repositório
   ```sh
-    git clone git@github.com:G-Alves1/todo-list.git
+    git clone git@github.com:xitusz/todo-list.git
   ```
 
 ---
